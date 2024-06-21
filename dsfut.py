@@ -3,13 +3,13 @@ import requests
 import time
 import winsound
 
-fifa = '22'
+fifa = ''
 console = 'ps'
-partner_id = '14421'
-secret_key = '1956b432b645504f687405ddcaa113e6'
+partner_id = ''
+secret_key = ''
 timestamp = ''
 signature = ''
-params = {'min_buy': '125000','max_buy': '145000'}
+params = {'min_buy': '','max_buy': ''}
 
 counter = 0
 
